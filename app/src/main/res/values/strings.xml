@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Analytics Example</string>
+    <string name="track_event">Track Event</string>
+    <string name="track_time">Track Time</string>
+
+    <string name="screen_Home">Home</string>
+    <string name="screen_Settings">Settings</string>
+
+    <string name="category_interacting">Interacting</string>
+    <string name="category_processing">Processing</string>
+
+    <string name="action_button_click">Button Click</string>
+    <string name="action_fake_process">Fake Process</string>
+    <string name="action_fake_process_one">Fake Process One</string>
+    <string name="action_fake_process_two">Fake Process Two</string>
+    <string name="action_fake_process_three">Fake Process Three</string>
+
+    <string name="label_fake_process">Runs a fake background task with random time for pause.</string>
+
+</resources>
